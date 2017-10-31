@@ -1,0 +1,4 @@
+linda\LindaSpeechlet.class
+linda\ConnectionUtil.class
+linda\LindaSpeechletRequestStreamHandler.class
+linda\QueryServiceTest.class
